@@ -36,7 +36,6 @@ To check the output, use a program that can compare text files.  Search online f
 
 ## Test
 
-[Back to Milestone 5-6](#milestone-56)
 
 #### Tester program
 ```C++
